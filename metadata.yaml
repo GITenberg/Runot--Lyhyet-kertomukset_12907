@@ -1,0 +1,32 @@
+_repo: Runot--Lyhyet-kertomukset_12907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivi, Aleksis
+    aliases:
+    - Stenvall, Aleksis
+    - Kivi, Alexis
+    - Kiwi, Aleksis
+    birthdate: 1834
+    deathdate: 1872
+    gutenberg_agent_id: '3865'
+    url: http://www.gutenberg.org/2009/agents/3865
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksis_Kivi
+    - http://fi.wikipedia.org/wiki/Aleksis_Kivi
+description: ''
+gutenberg_issued: '2004-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12907'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Short stories'
+- !lcc 'PH'
+- GITenberg
+title: Runot; Lyhyet kertomukset
+url: http://www.gutenberg.org/ebooks/12907
